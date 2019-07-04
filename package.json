@@ -1,7 +1,7 @@
 {
   "name": "is-dom-document",
   "description": "Determine if an object is a DOM Document (from any Realm).",
-  "version": "1.0.0",
+  "version": "1.0.1-alpha",
   "license": "MIT",
   "author": "Steven Vachon <contact@svachon.com> (https://svachon.com)",
   "repository": "github:stevenvachon/is-dom-document",
